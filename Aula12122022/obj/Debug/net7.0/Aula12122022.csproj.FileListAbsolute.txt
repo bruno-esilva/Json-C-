@@ -1,0 +1,15 @@
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\bin\Debug\net7.0\Aula12122022.exe
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\bin\Debug\net7.0\Aula12122022.deps.json
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\bin\Debug\net7.0\Aula12122022.runtimeconfig.json
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\bin\Debug\net7.0\Aula12122022.dll
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\bin\Debug\net7.0\Aula12122022.pdb
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.csproj.AssemblyReference.cache
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.AssemblyInfoInputs.cache
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.AssemblyInfo.cs
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.csproj.CoreCompileInputs.cache
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.dll
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\refint\Aula12122022.dll
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.pdb
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\Aula12122022.genruntimeconfig.cache
+D:\Codigo-do-Futuro\dotnet\Aula12122022\Aula12122022\obj\Debug\net7.0\ref\Aula12122022.dll
